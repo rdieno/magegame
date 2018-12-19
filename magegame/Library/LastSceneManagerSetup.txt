@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/sandbox.unity
+- path: Assets/_magegame/Scenes/sandbox.unity
   isLoaded: 1
   isActive: 1
